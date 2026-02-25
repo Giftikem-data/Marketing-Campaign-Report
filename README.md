@@ -4,15 +4,18 @@ Digital Marketing Campaign Performance Analysis – Power BI Report
 
 
 **Problem statement**
+
 This project evaluates the effectiveness of digital marketing campaigns by analyzing ROI, conversion rates, and channel efficiency to support data-driven budget allocation and campaign optimization.
 
 
 **Tools Used**
+
 PowerBi Desktop
 DAX (CTR, Conversion Rate, ROI calculations)
 
 
 **Dataset Overview**
+
 Number of Records: 1,000 rows
 Number of Fields: 11 columns
 Metrics analyzed: Impressions, Clicks, Conversions, Spend, Revenue, CTR, ROI
@@ -44,5 +47,6 @@ Initial Data Quality Issues Identified: None
 
   
 **Outcome**
+
 The project delivered a comprehensive performance evaluation of the company’s digital marketing campaigns, identifying high-ROI categories, underperforming campaigns, seasonal trends, and budget inefficiencies. The analysis provides actionable insights to optimize marketing spend, improve conversion efficiency, and support data-driven strategic decision-making.
 
